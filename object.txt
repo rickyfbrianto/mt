@@ -1,0 +1,9 @@
+Progress : 
+- Data :
+	- User (Show, Add, Update, Delete)
+	- Area (Show, Add, Update, Delete)
+	- Plant (Show, Add, Update, Delete)
+	- Maintenance (Show, Add, Update, Delete)
+- Proses : 
+	- Work Order (Show, Add, Update, Delete)
+	- Live Refresh
