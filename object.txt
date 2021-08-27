@@ -7,3 +7,12 @@ Progress :
 - Proses : 
 	- Work Order (Show, Add, Update, Delete)
 	- Live Refresh
+
+
+On the way :
+- Report :
+	- Work Order
+	- Plant
+	- Area
+	- Maintenance
+	- User
